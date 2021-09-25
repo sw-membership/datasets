@@ -18,3 +18,9 @@ text,labels
 hello world,-1
 hi there,0
 ```
+
+## [data](data/)
+
+### [SAFFN](data/saffn.csv)
+
+[Sentiment Analysis for Financial News](https://www.kaggle.com/ankurzing/sentiment-analysis-for-financial-news/)
