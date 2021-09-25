@@ -18,9 +18,9 @@
 
 ```shell
 # data.csv
-text,labels
-hello world,-1
-hi there,0
+index,text,labels
+1,hello world,-1
+2,hi there,0
 ```
 
 ## [data](data/)
